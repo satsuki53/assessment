@@ -71,7 +71,7 @@ const answers=[
     '{userName}のいいところは１２です。{userName}の１２は素敵です。',
     '{userName}のいいところは１３です。{userName}の１３は素敵です。',
     '{userName}のいいところは１４です。{userName}の１４は素敵です。',
-    '{userName}のいいところは１５です。{userName}の１５は素敵です。',
+    '{userName}のいいところは１５です。{userName}の１５は素敵です。最高。',
     '{userName}のいいところは優しさです。'
 ];
 
